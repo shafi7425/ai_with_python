@@ -28,3 +28,8 @@ for n in n_values:
 
 
 print("Exercise 1 finished. Histograms saved as ex1_hist_n*.png")
+
+
+# Q4: With small samples, the histogram is uneven. As n increases, it smooths and matches theory.  
+# Q5: Extreme values fade with larger n, results move toward the average → regression to the mean.  
+
